@@ -1,3 +1,3 @@
-# Projeto_BD
+# BD_Projetofinal :computer:
 
-* Sistema de uma clínica odontológica.
+* Sistema de uma clínica odontológica
